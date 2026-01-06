@@ -5,4 +5,4 @@ About Me My name is Emeka maddy and i'm a product manager with expertise in prod
 **Skills:** AI/ML integration, AI product development, customer engagement, strategic thinking, go to market strategy
 
 ## M4N Roadmap 2026
-![](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/M4N%20Ai%20powered%20roadmap.png)
+![](https://github.com/Madz04uk/IBM-AI-Product-Manager-Certification-/blob/main/M4N%20Ai%20powered%20roadmap.png)](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/M4N%20Ai%20powered%20roadmap.png)

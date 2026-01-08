@@ -27,15 +27,15 @@ Design & Architecture
 
 • 	__User Story__: As a customer, I want quick answers and guided support so I can make confident purchase decisions without navigating the entire site.
 
-![](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/M4N%20Product%20Backlog_user%20story%20chatbot.png)
+![](Images/M4N Product Backlog_user story chatbot.png)
 
 • 	__Conversation Hierarchy__: Structured flows for discovery, product info, and checkout support.
 
-![](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/M4N%20Assistant%20architecture.png)
+![](Images/M4N Assistant architecture.png)
 
 • 	__Intents & Workflows__: Mapped core intents (e.g., “find product”, “learn ingredients”, “skin assessments”) to deterministic workflows.
 
-![](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/M4N%20customer%20Intents.png)
+![](Images/M4N customer Intents.png)
 
 • 	[Code Pattern: Modular prompt‑driven architecture with reusable components for intents, responses, and UI integration.](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/Chatbot%20code%20pattern.png)
 
@@ -43,8 +43,8 @@ Design & Architecture
 
 The chatbot is now live on the ecommerce website [Mother4nature cosmetics](https://mother4nature.com/). It successfully handled its first customer order end‑to‑end, demonstrating improved engagement and reduced friction in the buying journey.
 
-![](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/Fully%20functional%20Chatbot%20on%20ecommerce%20website.png)
+![](Images/Fully functional Chatbot on ecommerce website.png)
 
-![](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/First%20order%20handled%20by%20Chatbot.png)
+![](Images/First order handled by Chatbot.png)
 
 

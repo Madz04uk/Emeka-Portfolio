@@ -14,16 +14,23 @@ AI/ML Integration · AI Product Development · Customer Engagement · Strategic 
 
 ## Step 1:
 
-The problem: User engagement was slow and manual, relying on end user to navigate site to find required data to make informed decisions. An on-demand solution was desired to improve customer satisfaction.
-The approach: Create a simple chat bot with preconfigured prompts to lead users down desired workflows. 
+Use Case: On‑Demand Conversational Assistant for Ecommerce
 
-•	User story
-•	Conversation Hierarchy
-•	Intents/workflows
-•	The code pattern used: 
- 
-The result: chatbot now available on ecommerce website and first order handle by new chatbot
+Problem:
 
- 
+User engagement on the ecommerce site was slow and highly manual. Customers had to navigate multiple pages to find product information, leading to friction and delayed decision‑making. The business needed an on‑demand, guided experience to improve customer satisfaction and reduce drop‑off.
+
+Approach:
+Designed and implemented a lightweight chatbot with preconfigured prompts that guide users through key workflows such as product discovery, FAQs, and purchase support. The solution was built to be simple, scalable, and aligned with the brand’s tone.
+Design & Architecture
+
+• 	User Story: As a customer, I want quick answers and guided support so I can make confident purchase decisions without navigating the entire site.
+• 	Conversation Hierarchy: Structured flows for discovery, product info, and checkout support.
+• 	Intents & Workflows: Mapped core intents (e.g., “find product”, “learn ingredients”, “shipping info”) to deterministic workflows.
+• 	Code Pattern: Modular prompt‑driven architecture with reusable components for intents, responses, and UI integration.
+
+Result:
+
+The chatbot is now live on the ecommerce website. It successfully handled its first customer order end‑to‑end, demonstrating improved engagement and reduced friction in the buying journey.
 
 

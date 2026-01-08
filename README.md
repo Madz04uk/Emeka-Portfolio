@@ -9,7 +9,7 @@ AI/ML Integration · AI Product Development · Customer Engagement · Strategic 
 
 
 ## M4N Roadmap 2026
-![](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/Images/M4N%20Ai%20powered%20roadmap.png)
+![](Images/M4N Ai powered roadmap.png)
 
 
 ## Stage 1:

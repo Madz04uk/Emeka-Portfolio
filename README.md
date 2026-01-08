@@ -41,7 +41,7 @@ Design & Architecture
 
 **Result**:
 
-The chatbot is now live on the ecommerce website. It successfully handled its first customer order end‑to‑end, demonstrating improved engagement and reduced friction in the buying journey.
+The chatbot is now live on the ecommerce website [Mother4nature cosmetics](https://mother4nature.com/). It successfully handled its first customer order end‑to‑end, demonstrating improved engagement and reduced friction in the buying journey.
 
 ![](https://github.com/Madz04uk/Emeka-Portfolio/blob/main/Fully%20functional%20Chatbot%20on%20ecommerce%20website.png)
 
